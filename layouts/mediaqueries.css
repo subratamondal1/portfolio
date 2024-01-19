@@ -73,7 +73,7 @@
   }
 
   .about-containers, .contact-info-upper-container, .btn-container {
-    flex-wrap: wrap;
+    flex-wrap: wrap:
     margin-top: 10px;
     margin-bottom: 10px;
   }
